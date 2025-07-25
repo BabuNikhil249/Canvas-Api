@@ -28,11 +28,11 @@ The **Canvas API** allows developers to draw graphics via JavaScript on a `<canv
 
 ## 🗂️ Project Structure
 
-/canvas-api-demo
-│
-├── index.html # Canvas container and basic layout
-├── style.css # Optional: canvas styling and centering
-└── script.js # JavaScript to draw on the canvas
+/canvas-api-demo <br>
+│<br>
+├── index.html # Canvas container and basic layout<br>
+├── style.css # Optional: canvas styling and centering<br>
+└── script.js # JavaScript to draw on the canvas<br>
 
 
 
