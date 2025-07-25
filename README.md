@@ -49,5 +49,5 @@ The **Canvas API** allows developers to draw graphics via JavaScript on a `<canv
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/canvas-api-demo.git
-cd canvas-api-demo
+git clone https://github.com/BabuNikhil/Canvas-Api.git
+cd Canvas-Api
